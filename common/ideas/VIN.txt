@@ -1,0 +1,66 @@
+ideas = {
+
+	country = {
+		VIN_The_1958_National_Assembly = {
+			picture = 
+			
+			allowed = { tag = VIN }
+			
+			available = {  }
+			
+			cancel = {  }
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.05
+			}
+		}
+		
+		
+		VIN_The_Leader_In_Name = {
+			picture = 
+			
+			allowed = { tag = VIN }
+			
+			available = {  }
+			
+			cancel = {  }
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_gain = -0.1
+			}
+		}
+		
+		
+		VIN_Memory_of_The_Land_Reform = {
+			picture = 
+			
+			allowed = { tag = VIN }
+			
+			available = {  }
+			
+			cancel = {  }
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				
+			}
+		}
+	}
+}
